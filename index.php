@@ -1,0 +1,1 @@
+<script> window.location.href = "myqr/qr2/index.php"; </script>
